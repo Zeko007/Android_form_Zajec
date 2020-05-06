@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gradovi">
+        <item>Zagreb</item>
+        <item>Osijek</item>
+        <item>Zadar</item>
+        <item>Šibenik</item>
+        <item>Split</item>
+        <item>Rijeka</item>
+        <item>Pula</item>
+        <item>Gospić</item>
+
+    </string-array>
+
+
+
+</resources>

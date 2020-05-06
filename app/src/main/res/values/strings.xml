@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AnuPatriciaZajec</string>
+    <string name="tV_ime">Unesite ime:</string>
+    <string name="tv_prezime">Unesite prezime:</string>
+    <string name="eT_prezime">prezime</string>
+    <string name="tV_adresa">Unesite adresu:</string>
+    <string name="tV_grad">Unesite grad:</string>
+    <string name="tV_Oib">Unesite OIB:</string>
+    <string name="tV_telefon">Unesite broj telefona:</string>
+    <string name="tV_spol">Odaberite spol:</string>
+    <string name="rd1_zena">Ženski</string>
+    <string name="rd2_muskarac">Muški</string>
+    <string name="btnSave">Spremi podatke</string>
+    <string name="btn_exit">Izlaz</string>
+    <string name="Tv_Ime_out">Ime: &#160;</string>
+    <string name="Tv_Prezime_out">Prezime: &#160;</string>
+    <string name="Tv_Adresa_out">Adresa: &#160;</string>
+    <string name="Tv_OIB_out">OIB: &#160;</string>
+    <string name="Tv_Spol_out">Spol: &#160;</string>
+    <string name="Tv_Grad_out">Grad: &#160;</string>
+    <string name="Tv_Telefon_out">Telefon: &#160;</string>
+
+</resources>
